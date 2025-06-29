@@ -2,7 +2,7 @@
 
 Projects for "IBM Data Science Professional Certificate" offered by IBM in Coursera
 
-[Certificate](IBMDS.png)
+![Certificate](IBMDS.png)
 
 ## Projects (available)
 
