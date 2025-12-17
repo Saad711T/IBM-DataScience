@@ -1,0 +1,15 @@
+[submodule "Tools-for-Data-Science"]
+	path = Tools-for-Data-Science
+	url = https://github.com/Saad711T/IBM-ToolsforDataScience
+[submodule "Python-Project-For-Data-Science"]
+	path = Python-Project-For-Data-Science
+	url = https://github.com/Saad711T/IBM-Python-Project-for-Data-Science
+[submodule "Data-Analysis-with-Python"]
+	path = Data-Analysis-with-Python
+	url = https://github.com/Saad711T/IBM-Data-Analysis-With-Python
+[submodule "Data-Visualization-with-Python"]
+	path = Data-Visualization-with-Python
+	url = https://github.com/Saad711T/IBM-Data-Visualization-With-Python
+[submodule "Applied-Capstone-Project"]
+	path = Applied-Capstone-Project
+	url = https://github.com/Saad711T/IBM-Applied-Data-Science-Capstone
