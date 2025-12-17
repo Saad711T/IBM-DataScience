@@ -14,6 +14,6 @@ Projects for "IBM Data Science Professional Certificate" offered by IBM in Cours
 
 ### Secondary Projects
 
-- `Git and Github` : Course from ``IBM Software Development Specialization`` and very greatful and useful . The course and projects is about git and simple bash commands to push and commit or other git commands , And for uploading your projects in github repositories .
-- `Emotion Detector` : Course about web application using watson nlp library to create an emotion detector app.
-- `Linux Commands and Bash Scripting` : Course from ``IBM Applied Software Engineering Specialization`` . that introduces Linux command line usage and Bash scripting fundamentals.
+- `Git and Github` : Course from ``IBM Software Development Specialization`` , Very greatful and useful . The course and projects is about git and simple bash commands to push and commit or other git commands , And for uploading your projects in github repositories .
+- `Emotion Detector` : Course about development web application using watson NLP library to create an emotion detector app.
+- `Linux Commands and Bash Scripting` : Course from ``IBM Applied Software Engineering Specialization`` . That introduces Linux command line usage and Bash scripting fundamentals.
